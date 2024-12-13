@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakresh443" alt="chakresh443" /></a> </p>
 
-- 🔭 I’m currently working on [Associate Professor](https://www.jiit.ac.in/dr-chakresh-kumar-jain)
+- 🔭 I’m currently working as a [Associate Professor](https://www.jiit.ac.in/dr-chakresh-kumar-jain)
 
 - 👯 I’m looking to collaborate on **NGS DATA ANALYSIS, STRUCTURAL BIOLOGY , BIG DATA ANALYSIS, etc..**
 
