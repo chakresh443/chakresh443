@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Chakresh Kumar Jain</h1>
+<h1 align="center">Hi 👋, I'm Dr. Chakresh Kumar Jain</h1>
 <h3 align="center">A passionate frontend Bioinformatician & Computational Biologist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakresh443&label=Profile%20views&color=0e75b6&style=flat" alt="chakresh443" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakresh443" alt="chakresh443" /></a> </p>
 
-- 🔭 I’m currently working as a [Associate Professor](https://www.jiit.ac.in/dr-chakresh-kumar-jain)
+- 🔭 I’m currently working as a [Associate Professor(Bioinformatics)](https://www.jiit.ac.in/dr-chakresh-kumar-jain)
 
-- 👯 I’m looking to collaborate on **NGS DATA ANALYSIS, STRUCTURAL BIOLOGY , BIG DATA ANALYSIS, etc..**
+- 👯 I’m looking to collaborate on **NGS DATA ANALYSIS, MACHINE LEARNING & SYSTEM BIOLOGY , BIG DATA ANALYSIS, etc..**
 
 - 👨‍💻 All of my projects are available at [https://scholar.google.co.in/citations?user=LdVhXnUAAAAJ&hl=en](https://scholar.google.co.in/citations?user=LdVhXnUAAAAJ&hl=en)
 
-- 💬 Ask me about **Bioinformatics, Computational Biology, computer science**
+- 💬 Ask me about **Bioinformatics, Computational Biology, Computer Science**
 
-- 📫 How to reach me **Chakresh.jain@jiit.ac.in**
+- 📫 How to reach me **ckj522@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
